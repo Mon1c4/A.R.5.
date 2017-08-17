@@ -29,3 +29,7 @@ table(aguaz$ENT)
 as.numeric(mti2015$ENT)
 
 class(mti2015$ENT)
+
+###Tarea
+mti2015=$ENT=as.numeric(mti2015$ENT)
+class(mti2015$ENT)
